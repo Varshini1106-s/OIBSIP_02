@@ -22,9 +22,6 @@ A simple Python script to generate secure, random passwords based on user prefer
 ---
 Run the script:
 
-bash
-Copy
-Edit
 python password_generator.py
 
 ## 🧠How It Works
