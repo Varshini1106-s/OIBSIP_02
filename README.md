@@ -43,11 +43,11 @@ Generates a random password of the specified length using random.choice()
 Displays the generated password
 
 ## 🧪Example
-🔐 Random Password Generator
-Enter desired password length (e.g. 8, 12): 12
-Include letters? (y/n): y
-Include digits? (y/n): y
-Include symbols? (y/n): n
+🔐 Random Password Generator  
+Enter desired password length (e.g. 8, 12): 12  
+Include letters? (y/n): y  
+Include digits? (y/n): y  
+Include symbols? (y/n): n  
 
 Your generated password is: G2eKTqZf18yB
 
